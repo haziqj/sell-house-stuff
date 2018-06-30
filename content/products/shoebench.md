@@ -1,7 +1,6 @@
 {
     "title": "TJUSIG Bench with shoe storage",
     "date": "2018-05-12T15:54:25+05:30",
-    "tags": ["furniture", "september"],
     "categories": ["furniture", "september"],
     "images": ["/img/shoebench/1.jpg"],
     "thumbnailImage": "/img/shoebench/1.jpg",

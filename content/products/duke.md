@@ -1,8 +1,7 @@
 {
     "title": "Duke",
     "date": "2018-05-12T15:48:00+05:30",
-    "tags": ["Floor Light"],
-    "categories": ["Floor Light"],
+    "categories": ["september"],
     "images": ["/img/duke/1.jpg", "/img/duke/2.jpg", "/img/duke/3.jpg"],
     "thumbnailImage": "/img/duke/thumbnail.jpg",
     "actualPrice": "₹ 87,341.00",
