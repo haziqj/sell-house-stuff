@@ -1,7 +1,7 @@
 {
     "title": "Mamas & Papas Pebble Cot",
     "date": "2018-05-12T15:54:25+05:30",
-    "categories": ["baby stuff", "immediate"],
+    "categories": ["baby stuff", "september"],
     "images": ["/img/cot/1.jpg"],
     "thumbnailImage": "/img/cot/1.jpg",
     "actualPrice": "£50",
