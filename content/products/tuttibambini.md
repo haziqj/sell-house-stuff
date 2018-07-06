@@ -1,7 +1,7 @@
 {
     "title": "Tutti Bambini GC35 Glider Chair & Stool",
     "date": "2018-05-12T15:54:25+05:30",
-    "categories": ["baby stuff", "immediate", "baby"],
+    "categories": ["baby stuff", "immediate"],
     "images": ["/img/tuttibambini/1.jpg"],
     "thumbnailImage": "/img/tuttibambini/1.jpg",
     "actualPrice": "£50",
