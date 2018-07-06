@@ -1,7 +1,7 @@
 {
     "title": "SnuzPod 2 Bedside Crib",
     "date": "2018-05-12T15:54:25+05:30",
-    "categories": ["baby stuff", "immediate"],
+    "categories": ["baby stuff", "immediate", "baby"],
     "images": ["/img/snuzpod/1.jpg"],
     "thumbnailImage": "/img/snuzpod/1.jpg",
     "actualPrice": "£100",

@@ -1,7 +1,7 @@
 {
     "title": "Twist Natural Cot Mattress 60x120cm + Protector",
     "date": "2018-05-12T15:54:25+05:30",
-    "categories": ["baby stuff", "september"],
+    "categories": ["baby stuff", "september", "baby"],
     "images": ["/img/cot/2.jpg"],
     "thumbnailImage": "/img/cot/2.jpg",
     "actualPrice": "£70",
