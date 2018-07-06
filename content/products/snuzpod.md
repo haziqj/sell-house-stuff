@@ -4,7 +4,7 @@
     "categories": ["baby stuff", "immediate"],
     "images": ["/img/snuzpod/1.jpg"],
     "thumbnailImage": "/img/snuzpod/1.jpg",
-    "actualPrice": "£90",
+    "actualPrice": "£100",
     "comparePrice": "£238.80",
     "inStock": true,
     "options": {},
@@ -12,6 +12,7 @@
 }
 
 Snüz SnuzPod 2 3-in-1 Bedside Crib, White. Includes
+
 - Natural Crib Mattress
 - SnüzPod Pocket
 - SnüzPod Mattress Protector
