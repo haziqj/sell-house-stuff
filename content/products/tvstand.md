@@ -6,7 +6,7 @@
     "thumbnailImage": "/img/tvstand/1.jpg",
     "actualPrice": "£25",
     "comparePrice": "£50",
-    "inStock": false,
+    "inStock": true,
     "options": {},
     "variants": []
 }

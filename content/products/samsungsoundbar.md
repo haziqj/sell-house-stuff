@@ -6,7 +6,7 @@
     "thumbnailImage": "/img/samsungsoundbar/1.jpg",
     "actualPrice": "£45",
     "comparePrice": "£118.13",
-    "inStock": false,
+    "inStock": true,
     "options": {},
     "variants": []
 }

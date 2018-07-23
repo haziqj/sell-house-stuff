@@ -4,9 +4,9 @@
     "categories": ["baby stuff", "immediate"],
     "images": ["/img/tuttibambini/1.jpg"],
     "thumbnailImage": "/img/tuttibambini/1.jpg",
-    "actualPrice": "£45",
-    "comparePrice": "199",
-    "inStock": false,
+    "actualPrice": "£50",
+    "comparePrice": "£199",
+    "inStock": true,
     "options": {},
     "variants": []
 }
