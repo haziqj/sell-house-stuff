@@ -6,7 +6,7 @@
     "thumbnailImage": "/img/toaster/1.jpg",
     "actualPrice": "FREE",
     "comparePrice": "£36.50",    
-    "inStock": true,
+    "inStock": false,
     "options": {},
     "variants": []
 }
