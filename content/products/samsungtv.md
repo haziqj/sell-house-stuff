@@ -6,7 +6,7 @@
     "thumbnailImage": "/img/samsungtv/1.jpg",
     "actualPrice": "£300",
     "comparePrice": "789",
-    "inStock": true,
+    "inStock": false,
     "options": {},
     "variants": []
 }
