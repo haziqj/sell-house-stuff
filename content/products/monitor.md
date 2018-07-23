@@ -4,7 +4,7 @@
     "categories": ["electronics", "september"],
     "images": ["/img/monitor/1.jpg"],
     "thumbnailImage": "/img/monitor/1.jpg",
-    "actualPrice": "£350",
+    "actualPrice": "£290",
     "comparePrice": "£723.59",
     "inStock": true,
     "options": {},

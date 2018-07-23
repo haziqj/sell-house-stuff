@@ -5,7 +5,7 @@
     "images": ["/img/printer/1.jpg"],
     "thumbnailImage": "/img/printer/1.jpg",
     "actualPrice": "£45",
-    "comparePrice": "£168",
+    "comparePrice": "£168.18",
     "inStock": true,
     "options": {},
     "variants": []
