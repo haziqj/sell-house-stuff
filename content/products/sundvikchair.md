@@ -1,7 +1,7 @@
 {
     "title": "SUNDVIK Children's chair",
     "date": "2018-05-12T15:54:25+05:30",
-    "categories": ["furniture", "september"],
+    "categories": ["furniture", "immediate"],
     "images": ["/img/sundvikchair/1.jpg"],
     "thumbnailImage": "/img/sundvikchair/1.jpg",
     "actualPrice": "£10",

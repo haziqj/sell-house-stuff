@@ -1,7 +1,7 @@
 {
     "title": "LACK Side table",
     "date": "2018-05-12T15:54:25+05:30",
-    "categories": ["furniture", "september"],
+    "categories": ["furniture", "immediate"],
     "images": ["/img/lacktable/1.jpg"],
     "thumbnailImage": "/img/lacktable/1.jpg",
     "actualPrice": "£5",

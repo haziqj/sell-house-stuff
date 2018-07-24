@@ -1,7 +1,7 @@
 {
     "title": "MALM Desk with pull-out panel ",
     "date": "2018-05-12T15:54:25+05:30",
-    "categories": ["furniture", "september"],
+    "categories": ["furniture", "immediate"],
     "images": ["/img/desk/1.jpg"],
     "thumbnailImage": "/img/desk/1.jpg",
     "actualPrice": "£30",

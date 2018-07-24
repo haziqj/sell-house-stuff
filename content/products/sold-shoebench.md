@@ -1,7 +1,7 @@
 {
     "title": "TJUSIG Bench with shoe storage",
     "date": "2018-05-12T15:54:25+05:30",
-    "categories": ["furniture", "september"],
+    "categories": ["furniture", "immediate"],
     "images": ["/img/shoebench/1.jpg"],
     "thumbnailImage": "/img/shoebench/1.jpg",
     "actualPrice": "£30",
