@@ -5,9 +5,11 @@
     "images": ["/img/ricecooker/1.jpg"],
     "thumbnailImage": "/img/ricecooker/1.jpg",
     "actualPrice": "£8",
-    "inStock": true,
+    "inStock": false,
     "options": {},
     "variants": []
 }
 
 Our trusty old rice cooker.
+
+G

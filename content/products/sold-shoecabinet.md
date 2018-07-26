@@ -6,7 +6,7 @@
     "thumbnailImage": "/img/shoecabinet/1.jpg",
     "actualPrice": "£10",
     "comparePrice": "£24",
-    "inStock": true,
+    "inStock": false,
     "options": {},
     "variants": []
 }
@@ -20,3 +20,5 @@ Article no: 502.427.37
 https://www.ikea.com/gb/en/products/small-storage-organisers/shoe-cabinets/bissa-shoe-cabinet-with-2-compartments-white-art-50242737/
 
 Originally purchased in September 2013.
+
+Mz
