@@ -6,7 +6,7 @@
     "thumbnailImage": "/img/mirror/1.jpg",
     "actualPrice": "£8",
     "comparePrice": "£20",
-    "inStock": true,
+    "inStock": false,
     "options": {},
     "variants": []
 }
