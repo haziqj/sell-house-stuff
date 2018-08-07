@@ -4,7 +4,7 @@
     "categories": ["misc", "immediate"],
     "images": ["/img/sauna/1.jpg"],
     "thumbnailImage": "/img/sauna/1.jpg",
-    "actualPrice": "£45",
+    "actualPrice": "£75",
     "inStock": true,
     "options": {},
     "variants": []
