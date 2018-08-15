@@ -3,7 +3,7 @@
     "date": "2018-05-12T15:54:25+05:30",
     "categories": ["furniture", "september"],
     "images": ["/img/printerstand/1.png"],
-    "thumbnailImage": "/img/printerstand/1.png",
+    "thumbnailImage": "/img/printerstand/1.jpg",
     "actualPrice": "£10",
     "inStock": true,
     "options": {},
